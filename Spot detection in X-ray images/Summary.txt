@@ -1,0 +1,1 @@
+Trained deep learning Convolutional Neural Network model with 5 convolutional layers using MATLAB on a 209,933 training and 144,994 testing X-ray image dataset. Classified the images into one of the three categories with an accuracy of 98.89%.
