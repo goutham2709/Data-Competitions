@@ -1,2 +1,2 @@
 # Data-Competitions
-Code base for the data science competitions i've worked on.
+This repository contains the code for the data science competitions i've worked on.
