@@ -1,0 +1,4 @@
+This is the competition dataset. The dataset can be downloaded from the link below.
+
+https://competitions.codalab.org/competitions/21639#participate-get_starting_kit
+
